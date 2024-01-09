@@ -1,4 +1,4 @@
-package com.skillbox.cryptobot;
+package com.sheensonsv.cryptobot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

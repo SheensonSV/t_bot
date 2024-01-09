@@ -1,4 +1,4 @@
-package com.skillbox.cryptobot;
+package com.sheensonsv.cryptobot;
 
 import java.util.regex.Pattern;
 

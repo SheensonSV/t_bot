@@ -1,4 +1,4 @@
-package com.skillbox.cryptobot.utils;
+package com.sheensonsv.cryptobot.utils;
 
 public class TextUtil {
 

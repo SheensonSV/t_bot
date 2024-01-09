@@ -1,4 +1,4 @@
-package com.skillbox.cryptobot.client;
+package com.sheensonsv.cryptobot.client;
 
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
